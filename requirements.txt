@@ -1,2 +1,1 @@
-asyncio
-websockets
+pip3 install asyncio websockets
